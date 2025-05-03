@@ -1,4 +1,4 @@
-## PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files<br/>
+## PNG, TIFF, MOV, MXF, AVIF with CICP, MDCV, CLLI Conformance Files<br/>
 ---
 ### GOALS - Conformance Test Files for specific Video Workflow Testing
 ### cICP allows correct identification from H.273 (not sRGB by default)
@@ -13,4 +13,5 @@
            2. TIFF ICC Profiles with CICP Tags<br/>
            3. QuickTime MOV with NCLC(CICP) Tags, MDCV, CLLI for PQ<br/>
            4. MXF Files with Picture Essence Descriptors that mimic CICP values<br/>
+           5. AVIF Files with cicp tags for SDR, PQ, HLG
 <br/>
